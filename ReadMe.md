@@ -15,3 +15,11 @@
 | [2. Функция. Выход из лабиринта](./contest_02/02/main.go) |  ![](./img/go.png) |
 | [3. Функция. Сортировка по количеству единиц](./contest_02/03/main.cpp) | ![](./img/go.png) |
 | ... | ... |
+
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
+| --- | :-: |
+| ... | ... |
+
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
+| --- | :-: |
+| ... | ... |
