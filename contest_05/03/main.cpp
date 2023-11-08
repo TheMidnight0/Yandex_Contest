@@ -7,7 +7,6 @@ public:
     Complex() {}
     Complex(std::string number) {
         std::string temp;
-        bool sec_part = false;
         for (int i = 0; i <= number.length(); i++) {
             if (i == number.length()) {
                 this->im = std::stod(temp);
